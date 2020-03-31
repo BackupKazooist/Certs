@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<html>
+  <head>
+    <nav id="navbar">
+      <a class="internal_link" href="#welcome-section">the welcome</a>
+      <a class="internal_link"href="#projects">Projects</a>
+    </nav>
+  </head>
+  
+  <body>
+    <section id="welcome-section">
+      <h1 id="welcome">
+        Welcome to the realm of Backup Kazooist
+      </h1>
+           
+    </section>
+    
+    <section id="projects">
+      
+      <div id="item1"class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/tribute.jpg"></img></a></div>
+  
+    <div id="item2"class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/random-quote-machine.png"></img></a></div>
+  
+  <label for="#item3">This one is a calc</label>
+  <div id="item3" class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/calc.png"></img></a></div>
+ 
+<div id="item4"class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/map.jpg"></img></a></div>
+      
+<div id="item5"class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://bit.ly/fcc-relaxing-cat"></img></a></div>
+
+<div id="item6"class="project-tile"><a target="_blank" href="https://codepen.io/freeCodeCamp/full/zNBOYG"><img class="tribute" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/tic-tac-toe.png"></img></a></div>
+      
+      <section id=
+      
+    </section>
+    
+    
+    
+  </body>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
